@@ -104,3 +104,23 @@ Since implementing built-in stat tracking on February 6, 2025, the automation su
 
 These figures reflect only **five weeks of activity**, illustrating the scale and speed of the impact. With continual use and future expansion, the cumulative effect of this automation is expected to grow exponentially. Check the website [stat website here] for current statistics. 
 
+---
+
+## 5. Cost-Saving Estimates
+
+Based on stat tracking from February 6 to March 12, the automation suite has saved approximately **440.15 labor hours**. At an effective hourly rate of **$27.40** (based on a $57,000 salary), this translates to:
+
+> ## 💰 **$12,061.86 in labor cost savings** — in just over 5 weeks
+
+This figure does not include:
+- Reduced error correction time
+- Decreased turnaround for check runs
+- Improved vendor response times
+- Intangible gains in operational reliability
+
+At the current rate of adoption and usage, the automation system is on pace to generate **over $120,000/year in labor value alone** — nearly double the cost of a full-time AP specialist.
+
+This return on investment (ROI) highlights the immediate and scalable impact of internally-developed automation in accounts payable workflows.
+
+---
+
