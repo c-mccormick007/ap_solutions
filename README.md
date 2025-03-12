@@ -77,8 +77,6 @@ In addition to the core automation suite, a variety of supplemental tools have b
 
 These tools, while not part of the primary automation pipeline, further reduce cognitive load and enable faster execution of routine processes.
 
----
-
 > 📊 **All major components include built-in stat tracking**, allowing for real-time measurement of script usage, invoice throughput, and bottlenecks. This ensures transparency and provides a data-driven foundation for continual process refinement.
 
 ---
