@@ -122,3 +122,14 @@ At the current rate of usage, the automation system is projected to generate **o
 
 ---
 
+## 6. Conclusion
+
+The automation suite I’ve developed has fundamentally transformed the accounts payable process. What began as a paper-based, manual workflow has evolved into a streamlined, high-efficiency system capable of handling thousands of invoices with minimal manual intervention. Every major bottleneck—from email triage to check runs—has been targeted and improved.
+
+In just over five weeks of tracked data, these tools have saved over **440 labor hours**, representing more than **$12,000 in labor cost savings** based on median industry rates. At scale, this impact exceeds **$120,000 annually**, delivering the equivalent output of multiple full-time employees through automation alone.
+
+Despite continued process issues and a high invoice volume, these systems have kept operations running efficiently and consistently. The workload that previously required a team is now being managed by one person—supported by custom-built tooling and strategic process design.
+
+> As the sole creator and operator of this automation infrastructure, I am performing beyond the scope of a traditional AP Specialist. The systems I’ve built demonstrate a clear blend of financial operations expertise and technical development skill—and I am ready to take on even more.
+
+I am proud of what I’ve built. I believe this work reflects not only my value in the present but also my potential moving forward.
