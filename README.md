@@ -81,3 +81,28 @@ These tools, while not part of the primary automation pipeline, further reduce c
 
 > 📊 **All major components include built-in stat tracking**, allowing for real-time measurement of script usage, invoice throughput, and bottlenecks. This ensures transparency and provides a data-driven foundation for continual process refinement.
 
+---
+
+## 4. Measurable Impact
+
+Since implementing built-in stat tracking on February 6, 2025, the automation suite has logged substantial activity across all modules. The data below highlights the tangible impact these tools have had on invoice processing, data entry reduction, and time savings.
+
+### 📊 Highlights (Feb 6 – Mar 12, 2025)
+
+| Automation Module            | Key Metrics                                                      |
+|-----------------------------|------------------------------------------------------------------|
+| **One_Button Suite**         | 3,110 POs processed, 2,828 vendor numbers appended, 394 Crystal Reports avoided |
+| **PO Extraction**            | 2,162 POs extracted, 2,411 files moved                           |
+| **Quantum Destroyer**        | 553 invoices added to release queue, 310 POs found, 1,860 keystrokes automated |
+| **Renamer**                  | 2,631 invoices renamed, 45,292 keystrokes saved                 |
+| **AS400 Macro**              | 3,388 invoices posted, 105,257 keystrokes automated              |
+| **Check Detail Generator**   | 1,269 text files generated, 807,368 keystrokes eliminated         |
+| **Check Sorting Suite**      | 3,810 files sorted, 1,849 checks + 1,680 ACHs + 275 AMEXs sorted |
+| **Email Destroyer**          | 3,433 emails destroyed, 2,861 attachments extracted, 1,581 flagged, 230 forwarded |
+
+> ⏱️ **Total Time Saved:** 18 days, 8 hours, 9 minutes, and 7 seconds over 5 weeks
+
+> ⌨️ **Estimated Keystrokes Eliminated:** Over 960,000, significantly reducing risk of repetitive strain and input error
+
+These figures reflect only **five weeks of activity**, illustrating the scale and speed of the impact. With continual use and future expansion, the cumulative effect of this automation is expected to grow exponentially. Check the website [stat website here] for current statistics. 
+
