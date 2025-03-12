@@ -130,6 +130,6 @@ In just over five weeks of tracked data, these tools have saved over **440 labor
 
 Despite continued process issues and a high invoice volume, these systems have kept operations running efficiently and consistently. The workload that previously required a team is now being managed by one person—supported by custom-built tooling and strategic process design.
 
-> As the sole creator and operator of this automation infrastructure, I am performing beyond the scope of a traditional AP Specialist. The systems I’ve built demonstrate a clear blend of financial operations expertise and technical development skill—and I am ready to take on even more.
+> As the sole creator and operator of this automation infrastructure, I am performing beyond the scope of a traditional AP Specialist. The systems I’ve built demonstrate a clear blend of financial operations expertise and technical development skill. I am proud of what I’ve built. I believe this work reflects not only my value in the present but also my potential moving forward.
 
-I am proud of what I’ve built. I believe this work reflects not only my value in the present but also my potential moving forward.
+Thanks for reading.
